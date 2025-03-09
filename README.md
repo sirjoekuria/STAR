@@ -1,5 +1,4 @@
-# STAR
-MY .CSS
+
 body {
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.6;
